@@ -4,6 +4,10 @@
 ## MATLAB File Exchange Visitors
 MATLAB FileExchange has a file size limit of 250MB. The fully self-contained app could not be made available for download directly from the MATLAB Add-ons. As an alternative, you may download the app from the [main branch](https://github.com/where-is-brett/cell-fluorescence-ml) or [Releases](https://github.com/where-is-brett/cell-fluorescence-ml/releases/tag/0.1.0).
 
+## Pre-requisites
+* A valid MATLAB license is required.
+* Deep Learning Tool Box
+
 ## Usage
 The current release is a personal project in its infancy. Despite my best efforts to deliver both functionality and user experience, there may be runtime errors if the app is not used as intented. It is important to understand the app UI before usage. You can find detailed instructions and a video demonstration [here](https://brettyang.info/neuroscience/computation/2021/08/21/CTCF-ML/). Please do not hesitate to report any issues or suggestions via this [form](https://brettyang.info/contact).
 
