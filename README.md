@@ -25,3 +25,5 @@ The user may load ROI data to workspace from '.ROI' files created in this app.
 ## License
 This app is distributed under the MIT license. For details, please refer to the LICENSE file in the main branch.
 
+
+*This app was designed for the Laboratory of Molecular Neuroscience and Dementia*
