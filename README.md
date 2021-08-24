@@ -6,7 +6,7 @@ MATLAB FileExchange has a file size limit of 250MB. The fully self-contained app
 
 ## Pre-requisites
 * A valid MATLAB license is required.
-* Deep Learning Tool Box
+* Deep Learning Toolbox
 
 ## Usage
 The current release is a personal project in its infancy. Despite my best efforts to deliver both functionality and user experience, there may be runtime errors if the app is not used as intented. It is important to understand the app UI before usage. You can find detailed instructions and a video demonstration [here](https://brettyang.info/neuroscience/computation/2021/08/21/CTCF-ML/). Please do not hesitate to report any issues or suggestions via this [form](https://brettyang.info/contact).
