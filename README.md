@@ -2,7 +2,7 @@
 [![View Semi-automatic Corrected Total Cell Fluorescence Measurement on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://au.mathworks.com/matlabcentral/fileexchange/98134-semi-automatic-corrected-total-cell-fluorescence-measurement)
 
 ## MATLAB File Exchange Visitors
-MATLAB File Exchange has a file size limit of 250MB. The fully self-contained app could not be made available for download directly from the MATLAB Add-ons. As an alternative, you may download the app from [releases](https://github.com/where-is-brett/cell-fluorescence-ml/releases/tag/).
+MATLAB File Exchange has a file size limit of 250MB. The fully self-contained app could not be made available for download directly from the MATLAB Add-ons. As an alternative, you may download the app from [releases](https://github.com/where-is-brett/cell-fluorescence-ml/releases).
 
 ## Pre-requisites
 * A valid MATLAB license is required.
